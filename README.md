@@ -37,7 +37,7 @@ Let's get started by opening a pull request.
 4. Select the **compare:** dropdown, and click `update-game`.
 5. Click **Create pull request**.
 6. Enter a title for your pull request: `Update the game over message`.
-7. Enter a description for your pull request: `Update the game over message so people know how to play again!`
+7. Enter a description for your pull request: `Play again'
 8. Click **Create pull request**.
 9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
